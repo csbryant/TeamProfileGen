@@ -1,4 +1,4 @@
-##Team Profile Generator
+## Team Profile Generator
 
 Team Profile Generator is a Node CLI that takes in user data to create a website based on company member's information.
 
