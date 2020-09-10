@@ -9,7 +9,7 @@ Team Profile Generator is a Node CLI that takes in user data to create a website
 User can select from different employee types: Manager, Engineer, and Interns to generatie bios for each employee and create a webpage with all contained information. Style for the webpage is included in the output folder.
 
 <br>
-<img src="https://raw.githubusercontent.com/csbryant/TeamProfileGen/master/assets/images/questions.png" />
+<img src="https://raw.githubusercontent.com/csbryant/TeamProfileGen/master/assets/images/Untitled_ Sep 10, 2020 3_13 PM.gif" />
 <br>
 
 
