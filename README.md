@@ -22,4 +22,4 @@ Passes all tests.
 
 # Credits
 
-Uses Inquirer and Jest NPMs
+Uses Inquirer and Jest NPMs.
