@@ -1,0 +1,31 @@
+body {
+    background-color: #1B2631;
+}
+
+.team-heading {
+    background-color: #283747 ;
+}
+
+h1, h2, h3, li {
+    color: #D6DBDF;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: #AEB6BF;
+}
+
+.employee-card {
+    background-color: #212F3C ; 
+}
+
+.card-header {
+    background-color: #283747 ;
+}
+
+.list-group-item {
+    background-color: #34495E;
+}
